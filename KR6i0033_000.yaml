@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0033/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說彌勒下生成佛經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0454.xml
+    old_id: T14n0454
+hash: sha256:6273d165a122f45aa9b43404d7296969a4210a9d266b2cab39f67668890e0cf9

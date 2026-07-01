@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0033/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0033/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說彌勒下生成佛經
+  identifiers:
+    krp: KR6i0033
+    cbeta: T14n0454
+    cbeta_old_id: T14n0454
+    authorityid: CA0002193
+    json_key: T0454
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0454.xml
+    old_id: T14n0454
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0033_000-T.yaml, hash: 'sha256:6273d165a122f45aa9b43404d7296969a4210a9d266b2cab39f67668890e0cf9'}
+  - {seq: 1, filename: KR6i0033_001-T.yaml, hash: 'sha256:fc00c5f69919c6fcfeb923a666e79f83f6009d232539fc7fe08805e263f99af3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0033_000-T.markers.yaml, hash: 'sha256:283f79d9cfdb36b177fb3046094c61d3173a3217aab26283454423459bfed8e5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0033_001-T.markers.yaml, hash: 'sha256:de2f18797714e5ffa4803a34c05f96bb2ef6e18b8bfb8bd13fd13d8ccd2aa585'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0033_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2953
+  label: 佛說彌勒下生成佛經
+  type: juan
+  level: 1
+hash: sha256:f47eb3acd1d4eca8badc17fa99170464f23c97f166347f49d3564806f6e32b6c
